@@ -51,7 +51,7 @@ This project uses two deep learning models:
 
 ## Dataset
 
-The dataset used for training and evaluation will be linked here.
+Dataset Link: https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset
 
 ## Future Scope
 
